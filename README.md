@@ -26,6 +26,8 @@ Due to strong typing, types need to be compatible with respect to the operand wh
 
 Due to dynamic typing, in Python the same variable can have a different type at different times during the execution. Dynamic typing allows for flexibility in programming, but with a price in performance." From *Using static typing - Python in High Performance Computing*, FutureLearn.com
 
+One way to debug variables throughout your code, is by drawing a trace table. Over time you will rely less and less on something like a trace table, but it's still good to know about. In the future you will learn to use debugging tools built into VS Code.
+
 
 
 **Basic introduction to data types**
@@ -67,17 +69,24 @@ The important operations in Python that you need to know right now are:
         <=
 ## Task 3 - Learning Control Structures
 
-If statements.
+**Introduction to `if` statements**
 
-For and while loops.
+One of the most common types of control structures is the if statement. It's made up of various parts. Let's work through some examples in `task_3.py`.
 
-Structuring code blocks in Python.
+**Introduction to `for` and `while` loops**
+
+See `task_3.py`.
+
+**What's the deal with Python indentation?**
+
+Let's discuss this. See PEP 8 for more: https://peps.python.org/pep-0008/.
 
 ## Task 4 - Using Functions
 
 What are functions and how do they help us?
 
+See `task_4.py`.
 
-## Exercises
+## More Exercises
 
 https://orac.amt.edu.au/

@@ -27,3 +27,8 @@ Structuring code blocks in Python.
 ## Task 4 - Using Functions
 
 What are functions and how do they help us?
+
+
+## Exercises
+
+https://orac.amt.edu.au/

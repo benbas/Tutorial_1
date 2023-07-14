@@ -28,9 +28,9 @@ Due to dynamic typing, in Python the same variable can have a different type at 
 
 
 
-**Basic introduction to data types (integers, floats, strings and booleans)**
+**Basic introduction to data types**
 
-The important data types that you need to know in Python right now are the following:
+The important data types in Python that you need to know right now are:
 
 - Integers (int)
 - Floats (float)
@@ -44,6 +44,27 @@ The important data types that you need to know in Python right now are the follo
 
 **Basic operations with variables**
 
+The important operations in Python that you need to know right now are:
+
+- Basic arithmetic operators
+
+        +
+        -
+        *
+        /
+- Basic assignment operators
+
+        =
+        +=
+        -=
+- Comparison operators
+
+        ==
+        !=
+        >
+        <
+        >=
+        <=
 ## Task 3 - Learning Control Structures
 
 If statements.

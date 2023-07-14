@@ -16,7 +16,7 @@ An expression consists of one or more *operands* and zero or more *operators*. A
 
 **What are variables?**
 
-A variable allows you to store a value in memory and call upon it later in your code. Variables are a named value. In programming languages a concept of type exists, which is describing the handling of data types.
+A variable allows you to store a value in memory and call upon it later in your code. Variables are a named value. In programming languages a concept of type exists, which describes the handling of data types.
 
 "Python is both a strongly typed and a dynamically typed language.
 
@@ -24,11 +24,23 @@ Strong typing means that variables do have a type and that the type matters when
 
 Due to strong typing, types need to be compatible with respect to the operand when performing operations. For example Python allows one to add an integer and a floating point number, but adding an integer to a string produces error.
 
-Due to dynamic typing, in Python the same variable can have a different type at different times during the execution. Dynamic typing allows for flexibility in programming, but with a price in performance." - *Using static typing*, FutureLearn
+Due to dynamic typing, in Python the same variable can have a different type at different times during the execution. Dynamic typing allows for flexibility in programming, but with a price in performance." From *Using static typing - Python in High Performance Computing*, FutureLearn.com
 
 
 
 **Basic introduction to data types (integers, floats, strings and booleans)**
+
+The important data types that you need to know in Python right now are the following:
+
+- Integers (int)
+- Floats (float)
+- Strings (str)
+- Booleans (bool)
+
+        alpha = 7 # this is an integer variable
+        bravo = 7.9 # this is a float variable
+        charlie = "hello world" # this is a string variable
+        delta = false # this is a boolean variable
 
 **Basic operations with variables**
 
